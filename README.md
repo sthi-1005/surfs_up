@@ -5,11 +5,11 @@ The client had requested for analysis on his data containing Hawaii weather info
 
 # Results
 Description statistics of measured temperature (°F) in Hawaii
-|June|December|
-|---|---|
-|![](june_temp_describe.png)|![](dec_temp_describe.png)|
+|June|December|BoxPlot|
+|---|---|---|
+|![](june_temp_describe.png)|![](dec_temp_describe.png)|![](boxplot.png)|
 
 Key observable differences:
 - December is on average, colder than June by 3.86 °F
-- December 
+- December has a greater spread with more outliers, despite having fewer data points
 
